@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "my-amazon-clone"
+  "defaultProject": "my-amazon-clone",
+  "cli": {
+    "analytics": false
+  }
 }
